@@ -112,7 +112,7 @@ def logo2():
 
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m ADMIN   :  Mr Rakib\x1b[0m\x1b[1;97m]
 
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m GITHUB   : www.https://github.com/ZihadVau99 \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m GITHUB   : www.https://github.com/MRRAKIB-404 \x1b[0m\x1b[1;97m]
 
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m FACEBOOK  :https://www.facebook.com/Itz.RAKiB.Sakib.Take.love\x1b[0m\x1b[1;97m]
 
@@ -365,7 +365,7 @@ class Main:
 
 				print("\033[0;92m[=×>]\033[0;92m NOTE : ENJOY THIS TOOL")
 
-				print("\033[0;92m[=×>]\033[0;92m NOTE : HAR 10 MIN BAD AIRPLANE MODE/FLIGHT MOD ON KRNA MUST H ")
+				
 
 				print("\033[0;97m───────────────────────────────────────────────────────× ")
 
@@ -765,7 +765,7 @@ if len(sys.argv) == 2:
 
 		print(" [ Sosial Medi  ] \n")
 
-		print(" [*] Facebook  : https://www.facebook.com/profile.php?id=100061369206031")
+		print(" [*] Facebook  : https://www.facebook.com/Itz.RAKiB.Sakib.Take.love")
 		
 		exit(" [*] GitHub    : https://github.com/MRRAKIB-404/ ")
 
